@@ -1,5 +1,5 @@
 # Tic Tac Toe
-Introduction to Computing Systems and Programming Course, Computer Assignment #1
+Computer Assignment #1, Introduction to Computing Systems and Programming Course, University of Tehran
 
 Phase 1 : Multiplayer Tic Tac Toe 
 
