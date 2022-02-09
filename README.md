@@ -1,0 +1,5 @@
+# Tic-Tac-Toe
+Introduction to Computing Systems and Programming, Computer Assignment #1
+
+Pahse 1 : Multiplayer Tic Tac Toe 
+Pahse 2 : Multiplayer Tic Tac Toe with functions
